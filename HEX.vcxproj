@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="github example.cpp" />
     <ClCompile Include="HEX.cpp" />
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
